@@ -18,3 +18,6 @@ list awesome mcp square
 
 ## MCPServers.org
 [![MCPServers.org](https://mcpservers.org/icon.png)](https://mcpservers.org/remote-mcp-servers)
+
+## A Register
+[mastra.ai](https://mastra.ai/mcp-registry-registry)
