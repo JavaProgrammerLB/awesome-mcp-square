@@ -2,7 +2,7 @@
 list awesome mcp square
 
 ## Smithery.ai
-[![Smithery.ai](https://smithery.ai/icon.svg)](https://smithery.ai/?q=)
+[![Smithery.ai](https://smithery.ai/logo.svg)](https://smithery.ai/?q=)
 
 ## MCP.so
 [![MCP.so](https://mcp.so/favicon.ico)](https://mcp.so/?tab=hosted)
@@ -21,3 +21,6 @@ list awesome mcp square
 
 ## A Register
 [mastra.ai](https://mastra.ai/mcp-registry-registry)
+
+## VsCode mcp server list
+[Visual Studio Code](https://code.visualstudio.com/mcp)
